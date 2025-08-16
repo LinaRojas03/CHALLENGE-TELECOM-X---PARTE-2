@@ -17,8 +17,8 @@ Se implementan y comparan dos modelos: **Regresión Logística** y **Random Fore
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/telecom-churn-prediction.git
-cd telecom-churn-prediction
+git clone https://github.com/LinaRojas03/CHALLENGE-TELECOM-X---PARTE-2.git
+cd TelecomX2_LATAM
 ```
 
 ---
